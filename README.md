@@ -1,5 +1,4 @@
-# BPSK-System-Simulation-Performance-Analysis
-# Cross-Platform BPSK System Simulation & Performance Analysis
+# BPSK-System-Simulation-Performance-Analysis-Python
 
 ## Project Overview
 This project demonstrates a fundamental digital communication system: Binary Phase Shift Keying (BPSK) modulation over an Additive White Gaussian Noise (AWGN) channel. The core simulation logic for calculating Bit Error Rate (BER) versus Signal-to-Noise Ratio (SNR) has been implemented **independently in Python **.
